@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer from India.
+
+🔭 I’m currently working on solving problems on LeetCode
+
 <!--
 **coolestphoenix/coolestphoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
